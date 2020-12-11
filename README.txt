@@ -6,4 +6,4 @@ To run the program use
 Example
     Maze.exe reinforcement_maze.txt 10000
 
-The minGW version used to compile is 9.2.0-2
+The minGW c++ compiler version is 9.2.0-2
